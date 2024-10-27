@@ -1,0 +1,50 @@
+.price {
+  font-size: 32px;
+}
+.card {
+  height: 300px;
+  padding: 10px 0;
+  text-align: center;
+}
+.h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  border-bottom: 2px solid #ffff;
+}
+.blue {
+  height: 70%;
+  background-color: rgb(39, 117, 131);
+  color: #ffff;
+}
+.green {
+  height: 70%;
+  background-color: rgb(41, 168, 111);
+  color: #ffff;
+}
+.red {
+  height: 70%;
+  background-color: rgb(188, 68, 47);
+  color: #ffff;
+}
+.redCard {
+  height: 350px;
+  color: red;
+  box-shadow: #444343;
+}
+.black {
+  height: 70%;
+  background-color: rgb(60, 59, 59);
+  color: #ffff;
+}
+.internet {
+  font-size: 28px;
+}
+.text {
+  height: 30%;
+  font-size: 28px;
+  background-color: #dbd7d7;
+  display: flex;
+  justify-content: center;
+}
