@@ -28,7 +28,10 @@
   background-color: rgb(188, 68, 47);
   color: #ffff;
 }
-.redCard {
+.redCard,
+.greenCard,
+.blueCard,
+.blackCard {
   height: 350px;
   color: red;
   box-shadow: #444343;
@@ -47,4 +50,13 @@
   background-color: #dbd7d7;
   display: flex;
   justify-content: center;
+}
+
+.button {
+  height: 50px;
+  width: 150px;
+  border: none;
+  border-radius: 10px;
+  background-color: #dbd7d7;
+  font-size: 16px;
 }
